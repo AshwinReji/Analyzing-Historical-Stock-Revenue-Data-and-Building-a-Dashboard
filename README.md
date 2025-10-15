@@ -9,7 +9,7 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 
 
 
-Table of Contents
+# Table of Contents
 Define a Function that Makes a Graph
 Question 1: Use yfinance to Extract Stock Data
 Question 2: Use Webscraping to Extract Tesla Revenue Data
